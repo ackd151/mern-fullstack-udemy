@@ -8,7 +8,7 @@ const Users = () => {
       id: "u1",
       name: "Max Schwarz",
       image:
-        "https://cdn.icon-icons.com/icons2/2643/PNG/512/male_man_people_person_avatar_white_tone_icon_159363.png",
+        "https://www.wolfhooker.com/wp-content/uploads/2019/02/176-1763433_user-account-profile-avatar-person-male-icon-icon-user-account.png.jpeg",
       places: 3,
     },
   ];

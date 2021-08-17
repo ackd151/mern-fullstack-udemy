@@ -33,7 +33,7 @@ const MainNavigation = () => {
           <span />
         </button>
         <h1 className='main-navigation__title'>
-          <Link tp='/'>Your Places</Link>
+          <Link to='/'>Your Places</Link>
         </h1>
         <nav className='main-navigation__header-nav'>
           <NavLinks />
